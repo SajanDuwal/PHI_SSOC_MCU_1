@@ -1,0 +1,17 @@
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:3343:22:LL_ADC_REG_SetDMATransfer	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:3376:26:LL_ADC_REG_GetDMATransfer	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4218:22:LL_ADC_EnableInternalRegulator	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4269:22:LL_ADC_Enable	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4308:26:LL_ADC_IsEnabled	2
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4319:26:LL_ADC_IsDisableOngoing	2
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4352:22:LL_ADC_StartCalibration	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4368:26:LL_ADC_IsCalibrationOnGoing	2
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4399:22:LL_ADC_REG_StartConversion	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4435:26:LL_ADC_REG_IsConversionOngoing	2
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4475:26:LL_ADC_REG_ReadConversionData12	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4542:26:LL_ADC_IsActiveFlag_ADRDY	2
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4580:26:LL_ADC_IsActiveFlag_EOC	2
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_adc.h:4693:22:LL_ADC_ClearFlag_EOC	1
+../Core/Src/adc.c:18:6:Activate_ADC	6
+../Core/Src/adc.c:130:6:ConversionStartPoll_ADC_GrpRegular	5
+../Core/Src/adc.c:167:10:ReadTemperature	2

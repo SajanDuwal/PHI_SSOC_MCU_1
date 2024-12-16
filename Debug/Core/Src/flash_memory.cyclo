@@ -1,0 +1,9 @@
+../Core/Src/flash_memory.c:11:6:Read_ID	2
+../Core/Src/flash_memory.c:44:6:Page_Write	2
+../Core/Src/flash_memory.c:87:9:Sector_Erase	5
+../Core/Src/flash_memory.c:129:6:Write_Enable	1
+../Core/Src/flash_memory.c:146:6:Bulk_Read	1
+../Core/Src/flash_memory.c:161:6:FM_Enable	1
+../Core/Src/flash_memory.c:166:6:FM_Disable	1
+../Core/Src/flash_memory.c:179:6:Page_Write_4B	2
+../Core/Src/flash_memory.c:225:6:Bulk_Read_4B	1

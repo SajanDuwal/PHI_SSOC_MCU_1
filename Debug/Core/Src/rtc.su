@@ -1,0 +1,2 @@
+../Core/Src/rtc.c:17:6:setTime	24	static
+../Core/Src/rtc.c:39:6:getTime	8	static
