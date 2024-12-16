@@ -385,6 +385,10 @@ int main(void)
 			myDebug("__________________________________________________\r\n");
 			myDebug(
 					"________________LoRa Transmitting to SSOC_2____________\r\n");
+
+			SUBGRF_SetRfFrequency(FREQ_433_MHZ);
+			SUBGRF_SetSwitch(RFO_HP, RFSWITCH_TX); /*Set RF switch*/
+			SUBGRF_SendPayload(txBuffer, 32, 0);
 		}
 
 	}
